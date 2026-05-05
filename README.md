@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br/><br/>
-<img width="1919" height="912" alt="bankk" src="https://github.com/user-attachments/assets/bf8db41b-46e6-46b0-8b17-5d81bb5cfcb7" />
+
 
 ### A full-stack modern banking web application - send money, track transactions, and manage finances with a beautiful UI.
 
