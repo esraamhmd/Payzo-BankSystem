@@ -1,4 +1,4 @@
-# 💰 Payzo - Banking System
+# 💰 Payzo - Banking System  fullstack project
 
 <div align="center">
 
