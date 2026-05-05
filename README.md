@@ -169,6 +169,11 @@ bank-system/
 
 ---
 
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 <div align="center">
 
 **Built with ❤️ using Next.js + Express + MongoDB**
