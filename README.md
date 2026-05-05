@@ -1,19 +1,19 @@
-# 🏦 Payzo — Banking System
+# 💰 Payzo - Banking System
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_UI_v6-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br/><br/>
 
-### A full-stack modern banking web application — send money, track transactions, and manage finances with a beautiful UI.
+### A full-stack modern banking web application - send money, track transactions, and manage finances with a beautiful UI.
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ## 📖 Introduction
 
-**Payzo** is a complete full-stack banking system built from scratch with Next.js 15 and Express. It delivers a real banking experience — account creation, money transfers, deposits, withdrawals, transaction history, and an admin dashboard — all secured with JWT authentication and MongoDB Atlas.
+**Payzo** is a complete full-stack banking system built from scratch with Next.js  and Express. It delivers a real banking experience  account creation, money transfers, deposits, withdrawals, transaction history, and an admin dashboard  all secured with JWT authentication and MongoDB Atlas.
 
 | Typical Banking Tutorial | Payzo |
 |--------------------------|-------|
@@ -53,8 +53,8 @@
 
 ### 📊 Dashboard
 - Live balance with account number copy button
-- Stat cards — Total Sent, Received, Deposited, Withdrawn
-- Activity bar chart — 7-day and 30-day views
+- Stat cards - Total Sent, Received, Deposited, Withdrawn
+- Activity bar chart - 7-day and 30-day views
 - Transaction split donut chart
 - Recent transactions table with horizontal scroll on mobile
 
@@ -82,10 +82,10 @@
 ## 🚀 Tech Stack
 
 ### Frontend
-- **Next.js 15** — App Router, server components, file-based routing
-- **React 19** — Latest React with concurrent features
+- **Next.js ** — App Router, server components, file-based routing
+- **React.js ** — Latest React with concurrent features
 - **TypeScript** — Full type safety across all components and hooks
-- **Material UI v6** — Component library with custom Payzo green theme
+- **Material UI ** — Component library with custom Payzo green theme
 - **Redux Toolkit** — Global auth state management
 - **TanStack Query** — Server state, caching, and mutations
 - **Recharts** — Bar and donut charts for spending analytics
