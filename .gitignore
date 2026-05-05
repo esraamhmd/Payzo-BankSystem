@@ -1,0 +1,23 @@
+# Environment variables — NEVER commit these
+backend/.env
+frontend/.env.local
+frontend/.env
+
+# Dependencies — too large, reinstalled via npm install
+backend/node_modules/
+frontend/node_modules/
+
+# Next.js build output
+frontend/.next/
+frontend/out/
+
+# TypeScript build
+backend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
